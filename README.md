@@ -3,3 +3,5 @@ repositorio para estudos academicos
 
 #nameDEV
 Felipe Patricio  (2202618)
+
+DEV FULL STACK
